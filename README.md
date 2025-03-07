@@ -7,7 +7,7 @@ https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-supported
 **NOTE:** The extension is built using Azure Java SDK and may not monitor all the Azure services.
 
 ## Prerequisites
-1. Before the extension is installed, the prerequisites mentioned [here](https://community.appdynamics.com/t5/Knowledge-Base/Extensions-Prerequisites-Guide/ta-p/35213) need to be met. Please do not proceed with the extension installation if the specified prerequisites are not met.
+1. Before the extension is installed, the prerequisites mentioned [here](https://community.splunk.com/t5/AppDynamics-Knowledgebase/Monitoring-Extensions-Prerequisites-Guide/ta-p/727060) need to be met. Please do not proceed with the extension installation if the specified prerequisites are not met.
 
 2. The extension collects metrics, which are supported with Azure Monitor using the Azure management APIs. In order to query the APIs, you should have the following Ids from App registrations in Azure Active Directory.
 ```   
